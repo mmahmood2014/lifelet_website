@@ -1,0 +1,29 @@
+.btn_options{
+	display:none;
+}
+.error_option{
+	display:none;
+	color:#F00;
+}
+.remove_item_a{
+	padding:0 !important;
+	font-size:unset !important;
+}
+.remove_item_a:hover{
+	color:#818181 !important;
+}
+div.numbers a.selected{
+	color:#333;
+}
+#warning_bundle_msg{
+	display:none;
+}
+/* Product Slider Buttons CSS */
+i.fas.fa-arrow-left.edit-arrow{
+	padding-top:200%;
+}
+
+i.fas.fa-arrow-right.edit-arrow{
+	padding-top:200%;
+}
+/* End */

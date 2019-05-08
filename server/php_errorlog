@@ -1,0 +1,7 @@
+[29-Nov-2018 07:27:02 Canada/Yukon] PHP Notice:  Undefined index: exp in /home/lifelet3/public_html/server/ajax.php on line 39
+[30-Nov-2018 03:06:52 Canada/Yukon] PHP Notice:  Undefined index: amount in /home/lifelet3/public_html/server/shipping.php on line 15
+[30-Nov-2018 03:06:52 Canada/Yukon] PHP Notice:  Undefined index: discount in /home/lifelet3/public_html/server/shipping.php on line 16
+[30-Nov-2018 03:06:52 Canada/Yukon] PHP Notice:  Undefined index: amount in /home/lifelet3/public_html/server/shipping.php on line 23
+[30-Nov-2018 03:06:52 Canada/Yukon] PHP Notice:  Undefined index: amount_format in /home/lifelet3/public_html/server/shipping.php on line 24
+[30-Nov-2018 03:06:52 Canada/Yukon] PHP Notice:  Undefined index: discount in /home/lifelet3/public_html/server/shipping.php on line 25
+[30-Nov-2018 03:06:52 Canada/Yukon] PHP Notice:  Undefined index: discount_format in /home/lifelet3/public_html/server/shipping.php on line 26
